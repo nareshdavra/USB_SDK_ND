@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spacecode_sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/spacecode_sdk_jar/spacecode_sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
